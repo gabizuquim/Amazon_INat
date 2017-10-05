@@ -1,2 +1,3 @@
 # Amazon_INat
-Amazon limits designed to be used in INat platform
+ShapeFile of the Amazon basin to be used in INat platform
+Adapted from in Quesada et al 2011, Moulatlet (https://github.com/gamamo/AmazonBasinLimits) and Eva & Huber 2005
